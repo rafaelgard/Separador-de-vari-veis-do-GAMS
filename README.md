@@ -1,2 +1,2 @@
-# Separador-de-vari-veis-do-GAMS
+# Separador de Variáveis do GAMS
 O objetivo deste código é facilitar a construção da lista de variáveis que sejam utilizadas no modelo do Software GAMS.  O código importa o código de um arquivo .txt, identifica as variáveis que começam com o caracter inicial da restrição e as separa numa lista já com virgula e espaçamento pronta para ser copiada e colada na secção "Equations" no seu código do GAMS.
